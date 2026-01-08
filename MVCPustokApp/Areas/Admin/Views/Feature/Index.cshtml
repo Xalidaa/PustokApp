@@ -1,0 +1,70 @@
+﻿@using MVCPustokApp.Models
+@model List<Feature>
+@{
+    int count = 0;
+}
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Featured Products</h1>
+
+
+    <div class="card shadow mb-4">
+
+        <a asp-controller="feature" asp-action="create" class="btn btn-success">Add Featured Product</a>
+        <div class="card-body">
+            <div class="table-responsive">
+
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Image</th>
+                            <th>Name</th>
+                            <th>Price</th>
+                            <th>Price Discount</th>
+                            <th>Actions</th>
+
+                        </tr>
+                    </thead>
+
+
+                    <tbody>
+                        <!-- Product 1 -->
+                        @foreach (Feature feature in Model)
+                        {
+                            count++;
+                            <tr>
+
+                                <td>@count</td>
+                                <td>
+                                    <img src="~/assets/image/bg-images/@feature.ImageUrl" alt="" width="120"
+                                         height="80" />
+                                </td>
+                                <td>@feature.Heading</td>
+                                <td>@feature.Price</td>
+                                <td>@feature.PriceDiscount</td>
+                                <td class="text-center">
+                                    <a asp-controller="feature" asp-action="detail" asp-route-id="@feature.Id" class="btn btn-primary btn-circle btn-lg">
+                                        <i class="fas fa-eye"></i>
+                                    </a>
+                                    <a asp-controller="feature" asp-action="update" asp-route-id="@feature.Id" class="btn btn-warning btn-circle btn-lg">
+                                        <i class="fas fa-edit"></i>
+                                    </a>
+                                    <a asp-controller="feature" asp-action="delete" asp-route-id="@feature.Id" class="btn btn-danger btn-circle btn-lg">
+                                        <i class="fas fa-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+</div>

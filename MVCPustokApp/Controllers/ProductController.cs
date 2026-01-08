@@ -4,7 +4,7 @@ namespace MVCPustokApp.Controllers
 {
     public class ProductController : Controller
     {
-        public IActionResult Index()
+        public ActionResult Index()
         {
             return View();
         }
