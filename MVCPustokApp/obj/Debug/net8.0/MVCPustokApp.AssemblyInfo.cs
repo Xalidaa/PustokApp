@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCPustokApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58f0454de8115c0bb64d4eeee744710efe14396d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c14618d9496fd7d9a6b942a04d616f98cb0558")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCPustokApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCPustokApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

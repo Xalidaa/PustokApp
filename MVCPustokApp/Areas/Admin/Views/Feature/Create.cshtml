@@ -1,0 +1,64 @@
+﻿@using MVCPustokApp.Areas.Admin.ViewModels.Feature
+@using MVCPustokApp.Models
+@model CreateFeatureVM
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Add Product</h4>
+
+                <form class="forms-sample" asp-action="Create" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="Photo">Image</label>
+                        <input asp-for="Photo" type="file" class="form-control" accept="image/*" placeholder="Image">
+                        <span asp-validation-for="Photo" style="color: red"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputName1">Name</label>
+                        <input asp-for="Name" type="text" class="form-control" placeholder="Name">
+                        <span asp-validation-for="Name" style="color: red"></span>
+                    </div>
+
+                  
+                    <div class="form-group">
+                        <label for="Detail">Detail</label>
+                        <input asp-for="Detail" type="text" class="form-control" placeholder="Detail">
+                        <span asp-validation-for="Detail" style="color: red"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="Price">Price</label>
+                        <input asp-for="Price" type="text" class="form-control" placeholder="Price">
+                        <span asp-validation-for="Price" style="color: red"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="PriceOld">PriceOld</label>
+                        <input asp-for="PriceOld" type="text" class="form-control" placeholder="PriceOld">
+                        <span asp-validation-for="PriceOld" style="color: red"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="PriceDiscount">PriceDiscount</label>
+                        <input asp-for="PriceDiscount" type="text" class="form-control" placeholder="PriceDiscount">
+                        <span asp-validation-for="PriceDiscount" style="color: red"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="CategoryId">Category</label>
+                        <select asp-for="CategoryId" name="CategoryId" id="CategoryId">
+                            <option value="">Choose</option>
+                            @foreach(Category category in Model.Categories)
+                            {
+                                <option value="@category.Id">@category.Name</option>
+                            }
+                           
+                        </select>
+                        <span asp-validation-for="CategoryId" style="color: red"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button asp-controller="category" asp-action="index" class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

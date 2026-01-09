@@ -3,60 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\viewmodels\\feature\\createfeaturevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\viewmodels\\feature\\createfeaturevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\migrations\\20260108105448_features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\migrations\\20260108105448_features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\viewmodels\\feature\\getfeaturevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\viewmodels\\feature\\getfeaturevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\viewmodels\\feature\\getfeaturevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\viewmodels\\feature\\getfeaturevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,16 +39,44 @@
       "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\migrations\\20260108105448_features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\migrations\\20260108105448_features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -87,28 +87,12 @@
       "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\utilities\\extensions\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\utilities\\extensions\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,6 +145,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|c:\\users\\dell\\desktop\\mvcpustokapp\\mvcpustokapp\\migrations\\20260108122009_updatefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E124C-BD7F-45DD-A5BC-FD649D61CFCE}|MVCPustokApp\\MVCPustokApp.csproj|solutionrelative:mvcpustokapp\\migrations\\20260108122009_updatefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -179,227 +167,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20260108122009_UpdateFeature.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs",
-              "RelativeToolTip": "MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T12:20:09.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20260108105448_Features.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108105448_Features.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Migrations\\20260108105448_Features.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108105448_Features.cs",
-              "RelativeToolTip": "MVCPustokApp\\Migrations\\20260108105448_Features.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwBsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T12:17:51.784Z",
+              "WhenOpened": "2026-01-09T12:28:37.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Feature.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Feature.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Models\\Feature.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Feature.cs",
-              "RelativeToolTip": "MVCPustokApp\\Models\\Feature.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA8wAsAAAAsAAAAAAAAAA==",
+              "Title": "CreateFeatureVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Feature\\CreateFeatureVM.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Feature\\CreateFeatureVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Feature\\CreateFeatureVM.cs*",
+              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Feature\\CreateFeatureVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T18:24:36.395Z",
+              "WhenOpened": "2026-01-09T11:11:46.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "MVCPustokApp\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T10:14:06.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "MVCPustokApp\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T10:18:50.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCPustokApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T17:58:39.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20260108121719_UpdateFeature.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs",
-              "RelativeToolTip": "MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T12:17:19.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "GetFeatureVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Feature\\GetFeatureVM.cs",
               "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Feature\\GetFeatureVM.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Feature\\GetFeatureVM.cs",
               "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Feature\\GetFeatureVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T11:33:29.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Category.cs",
-              "RelativeToolTip": "MVCPustokApp\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T10:26:29.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "FeatureController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Controllers\\FeatureController.cs",
               "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Controllers\\FeatureController.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Controllers\\FeatureController.cs",
               "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Controllers\\FeatureController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T11:09:59.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:35:19.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Program.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Program.cs",
-              "RelativeToolTip": "MVCPustokApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T17:54:43.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
-              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-08T11:10:16.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
-              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T11:46:05.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T11:36:00.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:16:51.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T11:17:58.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "UpdateCategoryVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
               "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
@@ -412,16 +231,193 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T12:23:01.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T12:33:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T11:10:16.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T11:36:00.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "MVCPustokApp\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:18:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Category.cs",
+              "RelativeToolTip": "MVCPustokApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:26:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Models\\Feature.cs",
+              "RelativeToolTip": "MVCPustokApp\\Models\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:24:36.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Program.cs",
+              "RelativeToolTip": "MVCPustokApp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:54:43.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\appsettings.json",
               "RelativeDocumentMoniker": "MVCPustokApp\\appsettings.json",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\appsettings.json",
               "RelativeToolTip": "MVCPustokApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-08T11:05:50.53Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:16:51.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCPustokApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:58:39.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260108105448_Features.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108105448_Features.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Migrations\\20260108105448_Features.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108105448_Features.cs",
+              "RelativeToolTip": "MVCPustokApp\\Migrations\\20260108105448_Features.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:17:51.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20260108122009_UpdateFeature.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs",
+              "RelativeToolTip": "MVCPustokApp\\Migrations\\20260108122009_UpdateFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:20:09.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260108121719_UpdateFeature.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs",
+              "RelativeToolTip": "MVCPustokApp\\Migrations\\20260108121719_UpdateFeature.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:17:19.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T11:17:58.205Z"
             },
             {
               "$type": "Document",
@@ -433,21 +429,7 @@
               "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T19:06:31.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Validator.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Utilities\\Extensions\\Validator.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Utilities\\Extensions\\Validator.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Utilities\\Extensions\\Validator.cs",
-              "RelativeToolTip": "MVCPustokApp\\Utilities\\Extensions\\Validator.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T18:33:07.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T19:06:31.252Z"
             },
             {
               "$type": "Document",
@@ -459,25 +441,11 @@
               "RelativeToolTip": "MVCPustokApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T18:00:06.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T18:00:06.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T12:23:01.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MVCPustokApp\\Controllers\\ProductController.cs",
@@ -485,12 +453,11 @@
               "RelativeToolTip": "MVCPustokApp\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T18:57:30.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T18:57:30.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
@@ -502,31 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FileSize.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Utilities\\Enums\\FileSize.cs",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Utilities\\Enums\\FileSize.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Utilities\\Enums\\FileSize.cs",
-              "RelativeToolTip": "MVCPustokApp\\Utilities\\Enums\\FileSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T18:39:15.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MVCPustokApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T12:22:06.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 23,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MVCPustokApp\\Controllers\\AuthController.cs",
@@ -538,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 25,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "MVCPustokApp\\Controllers\\BlogController.cs",
@@ -550,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 24,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "MVCPustokApp\\Controllers\\ShopController.cs",
@@ -562,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 27,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "MVCPustokApp\\ScaffoldingReadMe.txt",
@@ -574,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 26,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
@@ -586,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 28,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -598,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Views\\Blog\\Index.cshtml",
@@ -610,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Views\\Product\\Index.cshtml",
@@ -622,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Views\\Auth\\Index.cshtml",
@@ -634,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Views\\Shop\\Index.cshtml",
@@ -646,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 33,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "MVCPustokApp\\ViewModels\\HomeVM.cs",
@@ -658,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 34,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Views\\Shared\\_Layout.cshtml",
@@ -670,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 35,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVCPustokApp\\MVCPustokApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MVCPustokApp\\Views\\_ViewStart.cshtml",
