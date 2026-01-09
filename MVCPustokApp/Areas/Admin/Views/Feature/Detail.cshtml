@@ -1,0 +1,16 @@
+﻿@using MVCPustokApp.Models
+@model Feature
+
+<div class="d-flex justify-content-center">
+    <div class="card" style="width: 26rem;">
+        <img src="~/assets/image/bg-images/@Model.ImageUrl"
+             class="card-img-top"
+             alt="Category Image"
+             style="width:95%; margin: 0 auto; height:320px; object-fit:cover;">
+        <div class="card-body text-center">
+            <p class="card-text fs-5">
+                Category Name: @Model.Heading
+            </p>
+        </div>
+    </div>
+</div>

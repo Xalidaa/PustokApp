@@ -76,5 +76,92 @@ namespace MVCPustokApp.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+
+
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id == null || id < 1)
+                return BadRequest();
+
+            Feature feature = await _context.Features
+                .FirstOrDefaultAsync(f => f.Id == id);
+
+            if (feature == null)
+                return NotFound();
+
+            UpdateFeatureVM updateFeatureVM = new UpdateFeatureVM
+            {
+                Name = feature.Heading,
+                ImageUrl = feature.ImageUrl,
+                Detail = feature.Detail,
+                Price = feature.Price,
+                PriceOld = feature.PriceOld,
+                PriceDiscount = feature.PriceDiscount,
+                CategoryId = feature.CategoryId,
+                Categories = await _context.Categories.ToListAsync() // ✅ IMPORTANT
+            };
+
+            return View(updateFeatureVM);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id, UpdateFeatureVM model)
+        {
+            if (!ModelState.IsValid)
+            {
+                model.Categories = await _context.Categories.ToListAsync(); // ✅ REQUIRED
+                return View(model);
+            }
+
+            Feature feature = await _context.Features.FirstOrDefaultAsync(f => f.Id == id);
+            if (feature == null) return NotFound();
+
+            feature.Heading = model.Name;
+            feature.Detail = model.Detail;
+            feature.Price = model.Price;
+            feature.PriceOld = model.PriceOld;
+            feature.PriceDiscount = model.PriceDiscount;
+            feature.CategoryId = model.CategoryId;
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+
+
+        public async Task<ActionResult> Delete(int? id)
+        {
+            if (id == null || id < 1)
+            {
+                return BadRequest();
+            }
+            Feature feature = await _context.Features.FirstOrDefaultAsync(c => c.Id == id);
+            if (feature == null)
+            {
+                return NotFound();
+            }
+
+            feature.ImageUrl.DeleteFile(_env.WebRootPath, "assets", "image", "bg-images");
+            _context.Features.Remove(feature);
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+
+        }
+
+        public async Task<ActionResult> Detail(int? id)
+        {
+            if (id == null || id < 1)
+            {
+                return BadRequest();
+            }
+
+            Feature feature = await _context.Features.FirstOrDefaultAsync(c => c.Id == id);
+            if (feature is null)
+            {
+                return NotFound();
+            }
+
+            return View(feature);
+        }
     }
 }
